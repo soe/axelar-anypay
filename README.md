@@ -25,3 +25,9 @@ yarn local-dev:start
 # start the ui
 yarn dev
 ```
+
+## Demo video
+
+[![Watch the video](/public/assets/anypay-video-screenshot.png)](https://vimeo.com/780526823)
+
+Demo video link: https://vimeo.com/780526823
