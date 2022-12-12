@@ -2,7 +2,6 @@ import { JsonRpcSigner } from '@ethersproject/providers';
 import cn from 'classnames';
 import { Wallet } from 'ethers';
 import type { NextPage } from 'next';
-import Image from 'next/image'
 import { useRouter } from 'next/router'
 import React, { useCallback, useEffect, useState } from 'react';
 import { getSenderWallet, isTestnet } from '../config/constants';
@@ -118,7 +117,7 @@ const Home: NextPage = () => {
                 {/* source chain card */}
                 <div className="row-span-2 shadow-xl card w-96 bg-base-100">
                     <div className="text-center p-6 pb-0">
-                        <Image
+                        <img
                             src={payee.avatar}
                             className="rounded-full w-24 mb-4 mx-auto"
                             alt="Avatar"
