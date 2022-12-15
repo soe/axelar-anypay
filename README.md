@@ -31,3 +31,17 @@ yarn dev
 [![Watch the video](/public/assets/anypay-video-screenshot.png)](https://vimeo.com/780526823)
 
 Demo video link: https://vimeo.com/780526823
+
+## Impacts and potentials
+
+Web3 is scary for most typical users due to scams and loss of assets.
+However, it has huge potentials for financial accessiblity and inclusion.
+
+Use-case of straight forward payment without worrying about various chains and tokens is powerful.
+
+Get paid among friends and families for splitting costs.
+Get paid as creators and freelancers for their works.
+Get paid as businesses by sending invoices as payment requests.
+
+With Axelar's cross chains capabilities, espcially deposit addresses,
+web2's popular payment UXs (i.e Stripe, Patreon, Gumroad, etc) can be implemented easily on web3.
