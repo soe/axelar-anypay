@@ -38,10 +38,9 @@ const Home: NextPage = () => {
     
         // codes using router.query
         let { pid } = router.query;
-        if(!pid) pid = 'sandeep';
+        if(!pid) pid = 'derekyoo';
         
         let payee = payees.find((payee: any) => payee.id === pid) as any;
-        if(!payee) payee = payees.find((payee: any) => payee.id === 'sandeep') as any;
 
         console.log(payee);
         // set payee
