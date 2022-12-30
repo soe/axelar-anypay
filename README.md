@@ -3,6 +3,8 @@ Anypay is the simplest way to get paid in crypto from various chains powered by 
 
 Anypay makes cross-chain payment simple with just a link (i.e: Stripe Payment Link)
 
+Demo video link: https://vimeo.com/780526823
+
 ![anypay payment forms](/public/assets/anypay-main.png)
 
 With Anypay you can share your personalized payment link via email or DM, and others can easily pay from any chain supported by Axelar.
