@@ -5,9 +5,9 @@ Anypay makes cross-chain payment simple with just a link (i.e: Stripe Payment Li
 
 Demo video link: https://vimeo.com/780526823
 
-https://axelar-anypay.vercel.app/derekyoo
-https://axelar-anypay.vercel.app/cz
-https://axelar-anypay.vercel.app/sandeep
+- https://axelar-anypay.vercel.app/derekyoo
+- https://axelar-anypay.vercel.app/cz
+- https://axelar-anypay.vercel.app/sandeep
 
 ![anypay payment forms](/public/assets/anypay-main.png)
 
